@@ -1,5 +1,5 @@
 p{
- border:solidred;
+ border:solid red
 
 }
 body {
@@ -13,7 +13,7 @@ h1 {
     text-align:center
 }
 
-h2 u {
+u h2 {
        color:forestgreen;
     background-color:orange;
     text-align:center
