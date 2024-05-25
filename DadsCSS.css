@@ -1,7 +1,7 @@
 p{
- border:dotted black
-
-}
+ border:double black;
+ background-color:lightgreen
+ }
 body {
     background-color:rosybrown;
     text-align:center
