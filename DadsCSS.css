@@ -1,6 +1,5 @@
 p{
-
-<!--background-color:orange-->
+ border:1xp solid red
 
 }
 body {
@@ -17,7 +16,5 @@ h1 {
 h2 {
        color:forestgreen;
     background-color:orange;
-    text-align:center; 
-    border:1px;
-    border:solid 
+    text-align:center
         }
