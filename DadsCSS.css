@@ -17,5 +17,7 @@ h1 {
 h2 {
        color:forestgreen;
     background-color:orange;
-    text-align:center         
+    text-align:center; 
+    border:1px;
+    border:solid 
         }
