@@ -14,8 +14,8 @@ h1 {
     text-align:center
 }
 
-u h2 {
-            background-color:orange;
-            text-align:center;
-            color:darkmagenta
+h2 {
+       color:darkmagenta;
+    background-color:rosybrown;
+    text-align:center         
         }
