@@ -1,20 +1,21 @@
-p{
- border:double black;
- background-color:yellowgreen
- }
-body {
-    background-color:yellowgreen;
-    text-align:center
-
+p {
+    border: double black;
+    background-color: darkslateblue
 }
+
+body {
+    background-color:darkslateblue;
+    text-align: center
+}
+
 h1 {
-    color:forestgreen;
-    background-color:rosybrown;
+    color: forestgreen;
+    background-color: orangered; 
     text-align:center
 }
 
 u h2 {
-       color:forestgreen;
-    background-color:orange;
+    color: forestgreen;
+    background-color: orangered;
     text-align:center
-        }
+}
