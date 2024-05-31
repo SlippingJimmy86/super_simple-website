@@ -16,11 +16,12 @@ u h2 {
 }
 
 button{
+
+    display: grid;
+    justify-content: center;
      padding: 8px 14px 4px 8px;
-
      font-size:larger;
-
-    background-color:sandybrown;
+     background-color:sandybrown;
          color:forestgreen;
 }
 
