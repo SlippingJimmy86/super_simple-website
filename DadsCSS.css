@@ -1,17 +1,17 @@
 p {
     border: double black;
-    background-color: darkslateblue
+    background-color:rosybrown
 }
 
 body {
-    background-color:darkslateblue;
+    background-color:sandybrown;
     text-align: center
 }
 
 h1 {
     color:springgreen;
     background-color: slateblue;
-    text-align:right
+    text-align:center
 }
 
 u h2 {
