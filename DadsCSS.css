@@ -15,3 +15,12 @@ u h2 {
     text-align:center
 }
 
+button{
+     padding: 8px 14px 4px 8px;
+
+     font-size:larger;
+
+    background-color:sandybrown;
+         color:forestgreen;
+}
+
