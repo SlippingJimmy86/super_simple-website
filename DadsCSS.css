@@ -1,11 +1,6 @@
-p {
-    border: double black;
-    background-color:rosybrown
-}
-
 body {
     background-color:sandybrown;
-    text-align: center
+    text-align: left
 }
 
 h1 {
@@ -19,3 +14,4 @@ u h2 {
     background-color: slateblue;
     text-align:center
 }
+
