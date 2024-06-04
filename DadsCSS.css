@@ -1,5 +1,6 @@
 body {
-    background-color:sandybrown;
+    background: url("Two-Potters.jpg");
+    background-size: cover;
     text-align: left
 }
 
