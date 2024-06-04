@@ -15,7 +15,7 @@ u h2 {
     text-align:center
 }
 
-p {
-    font-size: 30px
+#Paragraph1 {
+    text-size: 30px; border-style: double;
 }
 
