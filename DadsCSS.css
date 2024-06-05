@@ -8,8 +8,9 @@ body {
     border-width:2px;
     border-style:solid;
     border-color:black;
-    
+    backgroud-color:darkslategray;
 }
+
 
 h1 {
     color:springgreen;
