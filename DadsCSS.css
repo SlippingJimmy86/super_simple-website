@@ -31,6 +31,9 @@ u h2 {
 }
 
 #Paragraph1 {
-    text-size: 40px; border-style: double; color:black
+    font-size: 20px; 
+    border-style:double; 
+    color:black;
+    font-family:roboto;
 }
 
