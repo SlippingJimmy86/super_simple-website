@@ -18,18 +18,6 @@ body {
     border-width:2px
 }
 
-h1 {
-    color:springgreen;
-    background-color: slateblue;
-    text-align:center
-}
-
-u h2 {
-    color:springgreen;
-    background-color: slateblue;
-    text-align:center
-}
-
 #Paragraph1 {
     font-size: 20px; 
     border-style:double; 
