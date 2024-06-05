@@ -8,12 +8,12 @@ body {
     border-width:2px;
     border-style:solid;
     border-color:black;
-    backgroud-color:darkslategray;
+    backgroud-color:rosybrown;
 }
 #container{
     font-size:20px;
     font-family:serif;
-    background-color:darkgoldenrod;
+    background-color:rosybrown;
     border-style:solid;
     border-width:2px
 }
