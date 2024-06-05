@@ -10,7 +10,13 @@ body {
     border-color:black;
     backgroud-color:darkslategray;
 }
-
+#container{
+    font-size:20px;
+    font-family:serif;
+    background-color:darkgoldenrod;
+    border-style:solid;
+    border-width:2px
+}
 
 h1 {
     color:springgreen;
