@@ -2,6 +2,14 @@ body {
     background-color:sandybrown;
     text-align: left
 }
+#navigation{
+  font-weight:400;
+    font-family:impact;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    
+}
 
 h1 {
     color:springgreen;
