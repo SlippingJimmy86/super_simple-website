@@ -5,23 +5,17 @@ body {
 #navigation{
   font-weight:400;
     font-family:impact;
-    border-width:2px;
-    border-style:solid;
-    border-color:black;
     backgroud-color: rgb(25,25,25);
 }
 #container{
     font-size:20px;
     font-family:serif;
-    background-color:rosybrown;
-    border-style:solid;
-    border-width:2px
+    background-color: rgb(25,25,25);
     overflow:auto;
 }
 
 #Paragraph1 {
     font-size: 20px; 
-    border-style:double; 
     color:black;
     font-family:roboto;
     background-color: rgb(25,25,25);
