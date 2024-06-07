@@ -51,7 +51,8 @@ body {
 #container{
     font-size:20px;
     font-family:serif;
-    background-color: mediumseagreen;
+    background-color: dimgrey;
+    color: mediumseagreen;
     overflow:auto;
 }
 
