@@ -1,5 +1,5 @@
 body {
-    background-color:sandybrown;
+    background-color: rgb(25,25,25);
     text-align: left
 }
 #navigation{
@@ -8,7 +8,7 @@ body {
     border-width:2px;
     border-style:solid;
     border-color:black;
-    backgroud-color:black
+    backgroud-color: rgb(25,25,25);
 }
 #container{
     font-size:20px;
