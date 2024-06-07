@@ -8,6 +8,7 @@ body {
             padding-top: 30px;
             min-height: 70px;
             border-bottom: #e8491d 3px solid;
+            text-align: center;
         }
         header a {
             color: #ffffff;
@@ -37,6 +38,7 @@ body {
         header .highlight, header .current a {
             color: orange;
             font-weight: bold;
+            text-align: center;
         }
         header a:hover {
             color: #ffffff;
@@ -72,3 +74,6 @@ body {
     font-family: Serif;
     text-align: center;
 }
+h2 {
+   font-size: 40px
+    }
