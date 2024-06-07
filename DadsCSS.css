@@ -76,6 +76,17 @@ body {
     font-family: Serif;
     text-align: center;
 }
+h2 .highlight {
+   font-size: 40px;
+    color: orange;
+    font-weight: bold;
+    text-align: center;
+    }
 h2 {
-   font-size: 40px
+     background: black;
+    color: white;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #e8491d 3px solid;
+    text-align: center;
     }
