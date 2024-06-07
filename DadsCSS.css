@@ -1,6 +1,8 @@
 body {
     background-color: rgb(40,25,25);
-    text-align: left
+    text-align: left;
+    width: 70%;
+    margin: auto;
 }
   header {
             background: black;
@@ -29,11 +31,11 @@ body {
             float: left;
         }
         header #branding h1 {
-            margin: 0;
+            margin: auto;
         }
         header nav {
             float: right;
-            margin-top: 10px;
+            margin-top: auto;
         }
         header .highlight, header .current a {
             color: orange;
